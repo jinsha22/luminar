@@ -1,0 +1,167 @@
+#b1{
+    background-color: #5e068a;
+    color: white;
+    width: 150px;
+}
+
+h1{
+    font-size: 50px;
+}
+
+#p1{
+    font-size: 16px;
+}
+
+#i1{
+    height: 600px;
+}
+
+#b2{
+    background-color: #5e068a;
+    height: 55px;
+    width: 200px;
+    border-radius: 50px;
+    color: white;
+    
+}
+
+#bm{
+    background-color: #5e068a;
+    height: 55px;
+    width: 200px;
+    border-radius: 50px;
+    color: white;
+}
+
+
+#b4{
+    background-color: #5e068a;
+    height: 58px;
+    width: 156px;
+    border-radius: 50px;
+    border: 2 px solid #5e068a;
+    color: white;
+}
+
+
+#gridb{
+    
+    height: 45px;
+    width: 130px;
+    border-radius: 50px;
+    border: 2px solid #5e068a;
+    background-color: #5e068a;
+    color: white;
+}
+
+
+
+#borrow{
+    border: 15px #f8f9fa solid;
+    
+}
+
+#rowbut{
+    background-color: #ffffff;
+    height: 55px;
+    width: 170px;
+    border-radius: 50px;
+    color:#5e068a;
+    font-weight: 600;
+}
+
+#rowbut:hover{
+    background-color: #5e068a;
+    height: 55px;
+    width: 170px;
+    border-radius: 50px;
+    color:#ffffff;
+    font-weight: 600;
+}
+
+#hovraw:hover{ 
+    transform: scale(1.02);
+}
+
+#borrow:hover{ 
+    transform: scale(1.02);
+}
+
+
+
+
+@media(orientation:portrait)
+{
+
+   
+
+
+    #b2{
+        height: 50px;
+        width: 100px;
+        font-size: smaller;
+        font-weight: lighter;
+    }
+
+    #b1{
+        width: 75px;
+    }
+
+    .headc{
+        
+        font-size: large;
+    }
+
+    .parac{
+        font-size: smaller;
+    }
+
+   
+
+
+    #bm{
+        height: 50px;
+        width: 100px;
+        font-size: smaller;
+        font-weight: lighter;
+    }
+
+    #thumbs{
+        width: 100%;
+    }
+
+    #pgr{
+        font-size: small;
+        font-weight: bold;
+    }
+
+    #rowbut{
+        background-color: #ffffff;
+        height: 55px;
+        width: 100px;
+        border-radius: 25px;
+        color:#5e068a;
+        font-weight: 600;
+    }
+
+    
+    
+}
+#pcaro{
+    font-size: large;
+    font-weight: bold;
+    line-height: 1.6;
+
+}
+
+#footh3{
+    color: white;
+    font-weight: bold;
+    font-size: x-large;
+}
+
+
+#foot{
+    color: white;
+    
+}
